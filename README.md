@@ -2,6 +2,8 @@
 
 Learn how you can edit in Syncfusion Angular Tree Grid. This example explains the Tree Grid editing features like edit types, edit modes, and Command column.
 
+Watch the video now: https://www.syncfusion.com/tutorial-videos/angular/treegrid?title=different-editing-modes-in-angular-tree-grid
+
 Documentation: https://ej2.syncfusion.com/angular/documentation/treegrid/edit/
 
 Online example: https://ej2.syncfusion.com/angular/demos/#/material/treegrid/celledit-type
